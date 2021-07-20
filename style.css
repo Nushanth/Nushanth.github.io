@@ -10,7 +10,7 @@ body {
 
 #main {
   width: 100%;
-  height: 100vh;
+  height: 50vh;
   position: relative;
 }
 
@@ -28,7 +28,7 @@ nav {
 }
 
 .logo img {
-  height: 45px;
+  height: 80px;
 }
 
 .menu{
@@ -66,7 +66,7 @@ a {
 }
 
 .image img{
-  width:100px;
+  width: 100%;
   height: 100%;
   object-fit: contain;
 }
@@ -83,7 +83,7 @@ a {
 }
 
 .main-text {
-  width: 500%;
+  width: 500px;
 }
 
 .main-text h1 {
